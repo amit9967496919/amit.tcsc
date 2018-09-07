@@ -1,0 +1,2 @@
+# amit.tcsc
+basic programing
